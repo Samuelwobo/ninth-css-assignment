@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.formcapa{
+    text-align: center;
+    color: aliceblue;
+    
+}
+body{
+    background-color: rgb(156, 78, 230);
+}
+.formcapa22{
+    background-color: rgb(78, 23, 129) ;
+    margin: 0 auto;
+    text-align: justify;
+    justify-content: center;
+    display: flex;
+    width: 40%;
+    color: white;
+    font-size: 23px;
+   flex-wrap: wrap;
+   
+}
+.formcapa22 .inner{
+    width: 95%;
+    padding: 6px;
+    border: none;
+
+}
+.formcapa22 textarea{
+    width: 99%;
+    height: 85px;
+}
+.formcapa22 button{
+    background-color: rgb(103, 228, 103);
+    color: antiquewhite;
+    border: none;
+    width: 99%;
+    padding: 8px;
+}
